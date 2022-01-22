@@ -39,3 +39,5 @@ Error:
 Error:  For more information about the errors and possible solutions, please read the following articles:
 Error:  [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
 Error: Process completed with exit code 1.
+
+9. Nous remarquons à la ligne 68 dans le test "badTest" que le assertTrue devant retourner true retourne false.
