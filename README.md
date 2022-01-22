@@ -13,3 +13,4 @@ B. Exécuter les tests unitaires
 A. S'assurer que le code de l'application ne comporte pas d'erreurs
 
 2. Les tests ne passent plus étant donné que la méthode "reverseSort" n'est pas intégrée dans les accolades de la classe "SortAlgorithms".
+4. Les autres membres du groupe se retrouve avec la même erreur une fois la récupération des derniers changements.
