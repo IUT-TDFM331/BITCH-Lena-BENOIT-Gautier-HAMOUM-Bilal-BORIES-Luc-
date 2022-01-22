@@ -41,3 +41,4 @@ Error:  [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureExc
 Error: Process completed with exit code 1.
 
 9. Nous remarquons à la ligne 68 dans le test "badTest" que le assertTrue devant retourner true retourne false.
+13. Nous récupérons une erreur du test lors du build.
